@@ -9,12 +9,12 @@ It can respond to basic greetings, small talks, fun facts and motivational quota
 - Simple and clean HTML + CSS styling
 - Runs locally in a browser
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python 3
 - Flask (web framework)
 - HTML/CSS (inline styling with `render_template_string`)
 
-## 🚀 Installation & Usage
+##  Installation & Usage
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/flask-chatbot.git
